@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Tkp0980/Readme/blob/main/Name.svg" alt="Tashi Kuenga Phuntsho" />
+  <img src="https://github.com/Tkp0980/Readme/blob/main/Name.svg" alt="Hi, Welcome to My Profile!" />
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" width="30%"/><br>
