@@ -8,7 +8,7 @@
 
 <h1 align="center"><samp>Greetings, I am Tashi Kuenga Phuntsho </samp><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2></h1>
 <samp>I am currently enrolled in a degree program in Information Technology in Bhutan. With a keen interest in Artificial Intelligence and Machine Learning, I am focused on expanding my knowledge and skills in these fields. I am particularly interested in exploring areas such as natural language processing, computer vision, and data-driven decision-making within AI. As I progress in my studies, I am eager to work on projects that address real-world challenges and contribute to the development of practical AI applications!</samp>
-
+<h1></h1>
 <h1 align="center"><samp>Technologies </samp><img src="https://media.giphy.com/media/0JqYaXPccbZGEDMQ9j/giphy.gif" alt="Funny Face GIF" width="35"/><br>
 </div></h1>
 
@@ -18,17 +18,10 @@
   <img src="https://github.com/Tkp0980/Readme/blob/main/readMe.jpg?raw=true" alt="Alt Text" width="94%"/>
 
 <h1 align="center">
-  <samp>Connect with me! <img src="[https://media.giphy.com/media/21MphNwjTcQf0CzxaY/giphy.gif" alt="Hand Spiral Galactic" width="35" /></samp>
-</h1>
-
-
-
-
-
-
-
+  <samp>Connect with me! <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" alt="Handshake Gesture Collab" width="30"/></samp></h1>
 
 <p align="center">
+   </br>
   <a href="https://www.facebook.com/tashikuenga.phuntsho.3/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" />
   </a>
@@ -38,5 +31,5 @@
   </a>
 </p>
 
-
+<h1></h1>
  &nbsp;&nbsp;&nbsp;<h1 align="center"><samp>  Thanks You for Visiting!  <img src="https://media.giphy.com/media/v2duI9CVxpw1ivPfki/giphy.gif" alt="Bye GIF" width="35" /></samp>
