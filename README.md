@@ -16,6 +16,27 @@
 <samp>  </samp>
 <div align="center">
   <img src="https://github.com/Tkp0980/Readme/blob/main/readMe.jpg?raw=true" alt="Alt Text" width="94%"/>
-</div>
 
-<h1 align="center"><samp>Thanks for Visiting!  <img src="https://media.giphy.com/media/v2duI9CVxpw1ivPfki/giphy.gif" alt="Bye GIF" width="35" /></samp>
+<h1 align="center">
+  <samp>Connect with me! <img src="[https://media.giphy.com/media/21MphNwjTcQf0CzxaY/giphy.gif" alt="Hand Spiral Galactic" width="35" /></samp>
+</h1>
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://www.facebook.com/tashikuenga.phuntsho.3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/tashi_kp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
+  </a>
+</p>
+
+
+ &nbsp;&nbsp;&nbsp;<h1 align="center"><samp>  Thanks You for Visiting!  <img src="https://media.giphy.com/media/v2duI9CVxpw1ivPfki/giphy.gif" alt="Bye GIF" width="35" /></samp>
