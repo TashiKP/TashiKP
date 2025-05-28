@@ -7,7 +7,7 @@
 <div> 
 
 <h4 align="center"><samp>Greetings, I am Tashi Kuenga Phuntsho </samp><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2></h1>
-<h3><samp>I am currently enrolled in a degree program in Information Technology in Bhutan. With a keen interest in Artificial Intelligence and Machine Learning, I am focused on expanding my knowledge and skills in these fields. I am particularly interested in exploring areas such as computer vision, and data-driven decision-making within AI. As I progress in my studies, I am eager to work on projects that address real-world challenges and contribute to the development of practical AI applications!</samp>
+<h3><samp>I am currently enrolled in a degree program in Information Technology in Bhutan. With a keen interest in Artificial Intelligence, Machine Learning, UX/UI design, and computer vision, I am focused on expanding my knowledge and skills in these interdisciplinary fields. I am particularly passionate about creating AI-driven solutions that are not only intelligent but also user-friendly and accessible. As I progress in my studies, I am eager to work on projects that address real-world challenges, contribute to the development of practical AI applications, and enhance user experiences through thoughtful UX/UI design.</samp>
 <h1></h1>
 
 <h2 align="center">
