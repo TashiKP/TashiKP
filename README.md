@@ -7,7 +7,7 @@
 <div> 
 
 <h4 align="center"><samp>Greetings, I am Tashi Kuenga Phuntsho </samp><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2></h1>
-<h3><samp>I have just completed my degree in Information Technology in Bhutan. With a keen interest in Artificial Intelligence, Machine Learning and UX/UI design, I am focused on expanding my knowledge and skills in these  fields. I am particularly passionate about creating AI-driven solutions that are not only intelligent but also user-friendly and accessible.</samp>
+<h3><samp>I am someone who likes to do anything technology related, but right now i really enjoy designing and coding interfaces and i am also particularly interested in machine learning and AI!</samp>
 <h1></h1>
 
 <h2 align="center">
