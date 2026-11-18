@@ -7,7 +7,7 @@
 <div> 
 
 <h4 align="center"><samp>Greetings, I am Tashi Kuenga Phuntsho </samp><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2></h1>
-<h3><samp>I am someone who likes to do anything technology related, but right now i really enjoy designing and coding interfaces and i am also particularly interested in machine learning and AI!</samp>
+<h3><samp>Fahhhhhh</samp>
 <h1></h1>
 
 <h2 align="center">
